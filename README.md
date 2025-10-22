@@ -21,7 +21,6 @@ $ export FLASk_ENV=development
 
 $ flask run
 
-
 Or run this command 
 
 $ python -m flask run
